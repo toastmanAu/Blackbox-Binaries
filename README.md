@@ -1,7 +1,7 @@
 # Blackbox-Binaries
 Update binaries for the blackbox terminal
 
-**ckb_pos_v0.1.9.ino.esp32.bin**
+**ckb_pos_v0.1.9.ino.esp32.bin** - *removed*
 * Fixes WiFi Timeout Loop - **!IMPORTANT!**
 
 **ckb_pos_v0.1.10.ino.esp32.bin**
