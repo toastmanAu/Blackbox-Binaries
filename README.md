@@ -19,6 +19,10 @@ Update binaries for the blackbox terminal
 * Various Crash Fixes - **!IMPORTANT!**
 * Limits calculator input size and decimal precision - **!IMPORTANT!**
 
+**ckb_pos_v0.2.3.ino.esp32.bin**
+* Fixes QR Code formatting issue - **!IMPORTANT!**
+
+
 **Blackbox User Manual Available on ePub via google drive**
 https://drive.google.com/drive/folders/1SpXmZ9HhN1zfthvQbi2BYfr4716QmI-j?usp=sharing
 
