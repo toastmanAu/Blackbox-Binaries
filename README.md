@@ -28,4 +28,7 @@ Update binaries for the blackbox terminal
 
 **Blackbox User Manual Available on ePub via google drive**
 https://drive.google.com/drive/folders/1SpXmZ9HhN1zfthvQbi2BYfr4716QmI-j?usp=sharing
+or
+last updated @ v0.2.0
+https://github.com/toastmanAu/Blackbox-Binaries/releases/download/v0.2.0/blackbox-manual_v_0_2_0.epub
 
