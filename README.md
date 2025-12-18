@@ -22,6 +22,9 @@ Update binaries for the blackbox terminal
 **ckb_pos_v0.2.3.ino.esp32.bin**
 * Fixes QR Code formatting issue - **!IMPORTANT!**
 
+**ckb_pos_v0.2.4.ino.esp32.bin**
+* Added Visual Status Indication to update process
+* Added Cloudflare support for direct updates from Github for regional compatibility
 
 **Blackbox User Manual Available on ePub via google drive**
 https://drive.google.com/drive/folders/1SpXmZ9HhN1zfthvQbi2BYfr4716QmI-j?usp=sharing
