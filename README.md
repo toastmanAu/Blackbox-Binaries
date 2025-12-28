@@ -26,6 +26,10 @@ Update binaries for the blackbox terminal
 * Added Visual Status Indication to update process
 * Added Cloudflare support for direct updates from Github for regional compatibility
 
+**ckb_pos_v0.2.5.ino.esp32.bin**
+* Implement new SPIFFS filesystem management to update scan
+* Implement new, more intuitive sales entry screen
+
 **Blackbox User Manual Available on ePub via google drive**
 https://drive.google.com/drive/folders/1SpXmZ9HhN1zfthvQbi2BYfr4716QmI-j?usp=sharing
 or
